@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there!
 
-<!--
-**charlesportwoodii/charlesportwoodii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Charles R. Portwood II.
 
-Here are some ideas to get you started:
+I am a multi-diciplinary software developer and systems engineer with an experience in several programming languages, hosting services, embedded software, and development methodologies. I provide consultation with specializations in architecture design and implementation; API, mobile, and web development; security; and cryptography.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me on Twitter, or securely via PGP if necessary:
+
+```
+# Import the key
+curl -sSLq https://www.erianna.com/key.asc | gpg2 --import--
+
+# Encrypt a message
+gpg --output message.gpg --encrypt --recipient charlesportwoodii@erianna.com <file>
+```
